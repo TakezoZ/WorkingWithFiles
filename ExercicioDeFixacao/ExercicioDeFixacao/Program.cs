@@ -1,7 +1,7 @@
 ﻿using ExercicioDeFixacao.Entities;
 using System.Globalization;
 
-namespace Exemple_Path
+namespace ExercicioDeFixacao
 {
     class Program
     {
